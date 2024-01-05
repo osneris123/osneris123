@@ -1,5 +1,5 @@
 ### Hi there 👋
-soy desarrollador BackEnd con conosimientos en Java, MYSQL, Rabbit mq, Spring Boot
+soy desarrollador BackEnd con conocimientos en Java, MYSQL, Rabbit mq, Spring Boot
 <!--
 **osneris123/osneris123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
