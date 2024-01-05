@@ -1,5 +1,9 @@
 ### Hi there 👋
 soy desarrollador BackEnd con conocimientos en Java, MYSQL, Rabbit mq, Spring Boot
+- Lenguaje: Java
+- Framework: Spring Boot
+- Message Broker: RabbitMQ
+- Base de Datos: MySQL
 <!--
 **osneris123/osneris123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
