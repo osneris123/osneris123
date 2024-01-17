@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there soy Osneris Martinez desarrollador BackEnd 👋
 soy desarrollador BackEnd con conocimientos en Java, MYSQL, Rabbit mq, Spring Boot
 - Lenguaje: Java
 - Framework: Spring Boot
