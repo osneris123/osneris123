@@ -1,6 +1,6 @@
 ### Hi there soy Osneris Martinez desarrollador BackEnd 👋
 
-Bienvenido a mi perfil de GitHub, donde la pasión por la ingeniería de software se encuentra con un compromiso inquebrantable hacia la excelencia técnica. Soy un ingeniero de software altamente motivado con experiencia en el desarrollo de aplicaciones empresariales robustas y escalables. Permíteme presentarte un resumen de mi experiencia y habilidades.
+Bienvenido a mi perfil de GitHub, donde la pasión por la ingeniería de software se encuentra con un compromiso inquebrantable hacia la excelencia técnica. Soy un desarrollador de software altamente motivado con experiencia en el desarrollo de aplicaciones empresariales robustas y escalables. Permíteme presentarte un resumen de mi experiencia y habilidades.
 
 ## Sobre mí 🚀
 Soy un apasionado desarrollador de software con un enfoque claro en la calidad del código y la resolución de problemas. Mis principales habilidades y tecnologías incluyen:
