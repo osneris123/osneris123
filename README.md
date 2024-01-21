@@ -22,6 +22,9 @@ Aquí en mi repositorio, encontrarás ejemplos concretos de mi trabajo, desde pr
 
 ¡Gracias por tomarte el tiempo de revisar mi perfil! Estoy entusiasmado por la posibilidad de contribuir a proyectos desafiantes y crecer profesionalmente.
 
-[¡Conéctate conmigo en LinkedIn!](www.linkedin.com/in/osneris-martinez)
+[¡Conéctate conmigo en LinkedIn!](www.linkedin.com/in/
+osneris-martinez
+
+)
 
 
